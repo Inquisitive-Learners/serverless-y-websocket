@@ -1,6 +1,6 @@
 {
   "name": "@inquisitive/serverless-y-websocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "y-websocket that works with AWS Lambda + API Gateway",
   "main": "./dist/y-websocket.js",
