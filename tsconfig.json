@@ -12,5 +12,5 @@
     "strict": true /* Enable all strict type-checking options. */,
     "skipLibCheck": true /* Skip type checking all .d.ts files. */
   },
-  "exclude": ["tests", "dist", "node_modules"]
+  "exclude": ["tests", "node_modules", "src", ".gitignore"]
 }
